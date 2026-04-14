@@ -1,4 +1,19 @@
 {
+    "Name": "Two photon calcium imaging in the CA1 region of the hippocampus in neonatal mice.",
     "BIDSVersion": "1.10",
-    "HEDVersion": "8.3.0"
+    "HEDVersion": "8.3.0",
+    "Description": "We performed in vivo 2-photon calcium imaging in the CA1 region of the hippocampus in awake mouse pups aged between 5 and 12 days postnatal. We used GCaMP6s calcium indicator in WT mice or GCaMP6s and flex-tdTomato in GadCre mice to record calcium dynamics from both pyramidal cells and interneurons. The imaging data set was acquired at 8 Hz, in field of view of 400x400 µm. Simultaneously with imaging, we record the spontaneous motor behavior of the mouse pups.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Dard, Robin"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.12.1.dev6+gf29fa0039",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
 }
